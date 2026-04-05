@@ -990,11 +990,11 @@
     "username_claimed": "bob"
   },
   "Giphy": {
+    "errorMsg": "GIPHY is how you search, share, discover, and create GIFs",
     "errorType": "message",
-    "errorMsg": "<title> GIFs - Find &amp; Share on GIPHY</title>",
-    "url": "https://giphy.com/{}",
+    "url": "https://giphy.com/channel/{}",
     "urlMain": "https://giphy.com/",
-    "username_claimed": "red"
+    "username_claimed": "giphy"
   },
   "GitBook": {
     "errorType": "status_code",
